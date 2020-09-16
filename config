@@ -89,7 +89,7 @@ bindsym $mod+r mode "resize"
 set $bg-color #00000000
 set $active-color #262626
 bar {
-        status_command ~/statusline/statusline
+        status_command ~/i3status/i3status
 	colors {
 		background $bg-color
 		separator #757575
